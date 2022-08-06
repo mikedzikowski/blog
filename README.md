@@ -1,5 +1,5 @@
 ## Welcome to my blog 
 
-I plan on updating this site soon with scripts and what I've learned by working with my Azure customers. 
+I intend to update this website shortly with a brain dump of concepts, scripts, and examples of automation from what I've discovered working in Azure.
 
 Mike-
